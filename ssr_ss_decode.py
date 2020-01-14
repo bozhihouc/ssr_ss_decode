@@ -4,12 +4,6 @@
 # @Author  : 852782749@qq.com
 # @File    : ssr_ss_decode.py
 # @Software: PyCharm
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time    : 2020/1/14 13:54
-# @Author  : 852782749@qq.com
-# @File    : ssr-->ss.py
-# @Software: PyCharm
 import base64
 
 def parse():
